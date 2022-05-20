@@ -4,6 +4,8 @@
 
 测试阶段，没做UI
 
+Frame.db - 指纹库，需要和jar放到同级目录
+
 ![image-20220417151612005](https://github.com/Awrrays/whatFingerForBurpsuite/blob/main/img/1.png)
 
 ## 指纹库
